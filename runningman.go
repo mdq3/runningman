@@ -322,5 +322,4 @@ func main() {
 	// Restore cursor and clear screen on exit
 	showCursor()
 	clearScreen()
-	fmt.Printf("Animation stopped.\n")
 }
